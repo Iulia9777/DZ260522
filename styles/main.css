@@ -11,7 +11,7 @@ body {
 .show {
     display: flex;
     height: 30px;
-    width: 100px;
+    width: 250px;
     align-items: center;
     justify-content: center;
 }
